@@ -1,6 +1,6 @@
 ### Hi there, I'm Sara Andrade! 
 
-I'm a Web Development and Multimedia student at **ESTG / Polytechnic University of Viana do Castelo (IPVC)** in Portugal. Passionate about building interactive web applications, creative coding, and immersive digital experiences that bridge clean code with strong visual design.
+I'm a Web Development and Multimedia student at **ESTG / Polytechnic University of Viana do Castelo (IPVC)** in Portugal. Passionate about building interactive web applications, creative coding, programming games and immersive digital experiences that bridge clean code with strong visual design.
 
 ---
 
@@ -15,7 +15,7 @@ I'm a Web Development and Multimedia student at **ESTG / Polytechnic University 
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 * **[Eventos IPVC](https://github.com/SaraAndrade/Aplicacoes_Web_TP1)** — Academic event management platform built in React with component-based architecture, asynchronous service layers, role-based access, and Docker support.
 * **[Pinceladas Virtuais](https://editor.p5js.org/SaraAndrade/full/lVGQwFCsD)** — Generative art application in **p5.js** converting static images and webcam feeds into oil painting aesthetics using Perlin noise and pixel manipulation.
