@@ -32,4 +32,4 @@ I'm a Web Development and Multimedia student at **ESTG / Polytechnic University 
 ###  Let's Connect
 
 * **Academic Institution:** ESTG / IPVC (Viana do Castelo, Portugal)
-* **Email:** [sara@ipvc.pt](mailto:sara@ipvc.pt)
+* **Email:** [sarasofiaandrade@ipvc.pt](mailto:sarasofiaandrade@ipvc.pt)
