@@ -1,6 +1,6 @@
 ### Hi there, I'm Sara Andrade! 
 
-I'm a 2nd-year Web Development and Multimedia student at **ESTG / Polytechnic University of Viana do Castelo (IPVC)** in Portugal. Passionate about building interactive web applications, creative coding, and immersive digital experiences that bridge clean code with strong visual design.
+I'm a 2nd-year Web Development and Multimedia student at **ESTG / Polytechnic University of Viana do Castelo (IPVC)** in Portugal. Passionate about building interactive web applications,programming games, creative coding, and immersive digital experiences that bridge clean code with strong visual design.
 
 ---
 
