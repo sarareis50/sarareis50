@@ -36,4 +36,5 @@ I'm a 2nd-year Web Development and Multimedia student at **ESTG / Polytechnic Un
 ###  Let's Connect
 
 - **Academic Institution:** ESTG / IPVC (Viana do Castelo, Portugal)
-- **Email:** [sarasofiaandrade@ipvc.pt](mailto:sarasofiaandrade@ipvc.pt)
+- **Academic Email:** [sarasofiaandrade@ipvc.pt](mailto:sarasofiaandrade@ipvc.pt)
+- **Pessoal Email:** [sarasofialrandrade@gmail.com](mailto:sarasofialrandrade@gmail.com)
