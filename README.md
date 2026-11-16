@@ -27,12 +27,6 @@ I'm a 2nd-year Web Development and Multimedia student at **ESTG / Polytechnic Un
 
 ---
 
-###  GitHub Stats
-
-![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarareis50&show_icons=true&theme=radical)
-
----
-
 ###  Let's Connect
 
 - **Academic Institution:** ESTG / IPVC (Viana do Castelo, Portugal)
