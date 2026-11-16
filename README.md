@@ -6,7 +6,7 @@ I'm a 2nd-year Web Development and Multimedia student at **ESTG / Polytechnic Un
 
 ###  Tech Stack & Tools
 
-- **Frontend & Web:** JavaScript (ES6+), React, React Router, HTML5, CSS3, Tailwind CSS, Bootstrap, PHP
+- **Frontend & Web:** Java,JavaScript, React, React Router, HTML5, CSS3, Tailwind CSS, Bootstrap, PHP
 - **Creative Coding, 3D & Games:** p5.js, Phaser 3, Three.js
 - **Databases & Backends:** MySQL, phpMyAdmin, PostgreSQL, SQL
 - **CMS & Documentation:** WordPress, DokuWiki
